@@ -14,5 +14,6 @@ Link to parameters which is choosen to output final result: https://polybox.ethz
 
 Notice of loading trained parameters: 
 
-We originally trained 10 models, and we validate on every 9 of them. The best performed model set is choosen, and in this case, its the one with the 4th model excluded has the best performance.
+* We originally trained 10 models, and we validate on every 9 of them. The best performed model set is choosen, and in this case, its the one with the 4th model excluded has the best performance.
 
+* To load the trained parameter, the biLSTM_att_val_ensem.py or biLSTM_att_val_ensem.ipynb should be run.
