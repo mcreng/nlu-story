@@ -10,7 +10,7 @@ The files are:
 * `biLSTM_Att_val.py`: python file for training attention only data (on validation data)
 * `biLSTM_att_val_ensem.py`:python file for training ensembled only data (on validation data only or on validation data + test data) (with test included)  
 
-Link to parameters which is choosen to output final result: https://polybox.ethz.ch/index.php/apps/files/?dir=/saved_ensem_dropout&fileid=1406371338
+Link to parameters which is choosen to output final result: https://polybox.ethz.ch/index.php/s/GgkHdN1gJeMje8M
 
 Notice of loading trained parameters: 
 
